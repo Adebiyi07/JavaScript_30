@@ -119,3 +119,6 @@ const getCountryData = function (country) {
 };
 
 getCountryData("portugal");
+
+//need to practise more on this
+//const
