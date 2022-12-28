@@ -41,4 +41,4 @@ const controlRecipes = async function () {
 );
 // window.addEventListener("hashchange", controlRecipes);
 // window.addEventListener("load".controlRecipes);
-// refactor and add components
+// refactor and add components for easy linking
